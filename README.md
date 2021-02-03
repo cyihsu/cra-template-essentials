@@ -1,4 +1,4 @@
-# cra-template-basic
+# cra-template-essentials
 
 A template with nothing but essential packages.
 

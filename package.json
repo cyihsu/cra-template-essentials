@@ -1,5 +1,5 @@
 {
-  "name": "cra-template-basic",
+  "name": "cra-template-essentials",
   "version": "0.0.1",
   "keywords": [
     "react",
@@ -9,14 +9,14 @@
   "description": "A template with nothing but essential packages.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cyihsu/cra-template-basic.git"
+    "url": "https://github.com/cyihsu/cra-template-essentials.git"
   },
   "license": "MIT",
   "engines": {
     "node": ">=10"
   },
   "bugs": {
-    "url": "https://github.com/cyihsu/cra-template-basic/issues"
+    "url": "https://github.com/cyihsu/cra-template-essentials/issues"
   },
   "files": [
     "template",
