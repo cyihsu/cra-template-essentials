@@ -1,0 +1,25 @@
+{
+  "name": "cra-template-basic",
+  "version": "0.0.1",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "A template with nothing but essential packages.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cyihsu/cra-template-basic.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/cyihsu/cra-template-basic/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
